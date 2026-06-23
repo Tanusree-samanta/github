@@ -1,1 +1,2 @@
+"""Demo module."""
 print("hi")
